@@ -14,36 +14,34 @@
 
 ## 🧠 Who I Am
 
-```ts
-const sneha = {
-  title: "Software Developer | AI/ML & Full Stack",
-  location: "Indore, Madhya Pradesh, India",
-  education: "B.Tech, AI & ML @ Acropolis Institute of Technology & Research (2023–2027)",
-  stack: {
-    languages: ["Python", "Java", "SQL", "HTML", "CSS", "JavaScript"],
-    aiml: ["Machine Learning", "Deep Learning", "NLP", "Generative AI", "LLMs", "RAG", "Prompt Engineering", "Semantic Search", "Embeddings", "Vector Search"],
-    frameworks: ["TensorFlow", "PyTorch", "Scikit-learn", "FastAPI", "Streamlit", "NLTK", "FAISS", "Sentence Transformers"],
-    dataTools: ["Pandas", "NumPy", "Matplotlib", "Tableau", "Excel", "Data Analytics", "Data Visualization", "EDA"],
-    backend: ["REST APIs", "Backend Development", "API Integration", "Gemini API"],
-    databases: ["MySQL", "MongoDB"],
-    fundamentals: ["Data Structures & Algorithms", "OOP", "DBMS", "Operating Systems", "Computer Networks"],
-    tools: ["Git", "GitHub", "Docker", "Postman", "VS Code", "Jupyter Notebook"],
-    practices: ["Software Testing", "Test Automation", "Performance Optimization", "Agile/Scrum", "Problem Solving"],
-  },
-  launchedProjects: [
-    "AI-Powered Industrial Knowledge Intelligence Platform",
-    "DataSip — AI-Powered Personalized Learning Platform",
-  ],
-  certifications: [
-    "Applied AI Bootcamp — GenAI, RAG & Agentic Systems (Navigate Labs x Acropolis)",
-    "Deloitte Data Analytics Virtual Experience (Forage)",
-    "IBM Prompt Engineering",
-    "NPTEL Python for Data Science",
-  ],
-  status: "Global AI & Technology Intern @ Frontier Japan Ltd (Oct–Dec 2025)",
-  openTo: ["Full-time Roles", "Internships", "All Domains", "Collaborations"],
-};
-```
+| | |
+|---|---|
+| 🎯 **Title** | Software Developer \| AI/ML & Full Stack |
+| 📍 **Location** | Indore, Madhya Pradesh, India |
+| 🎓 **Education** | B.Tech, AI & ML @ Acropolis Institute of Technology & Research (2023–2027) |
+| 💼 **Currently** | Global AI & Technology Intern @ Frontier Japan Ltd (Oct–Dec 2025) |
+| 🚀 **Open To** | Full-time Roles · Internships · All Domains · Collaborations |
+
+**🛠️ Skills**
+- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript
+- **AI/ML & GenAI:** Machine Learning, Deep Learning, NLP, Generative AI, LLMs, RAG, Prompt Engineering, Semantic Search, Embeddings, Vector Search
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, FastAPI, Streamlit, NLTK, FAISS, Sentence Transformers
+- **Data Tools:** Pandas, NumPy, Matplotlib, Tableau, Excel, Data Analytics, Data Visualization, EDA
+- **Backend & APIs:** REST APIs, Backend Development, API Integration, Gemini API
+- **Databases:** MySQL, MongoDB
+- **Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
+- **Tools:** Git, GitHub, Docker, Postman, VS Code, Jupyter Notebook
+- **Practices:** Software Testing, Test Automation, Performance Optimization, Agile/Scrum, Problem Solving
+
+**📌 Featured Projects**
+- AI-Powered Industrial Knowledge Intelligence Platform
+- DataSip — AI-Powered Personalized Learning Platform
+
+**📜 Certifications**
+- Applied AI Bootcamp — GenAI, RAG & Agentic Systems (Navigate Labs x Acropolis)
+- Deloitte Data Analytics Virtual Experience (Forage)
+- IBM Prompt Engineering
+- NPTEL Python for Data Science
 
 <br/>
 
@@ -155,4 +153,5 @@ REST APIs powering an in-app chatbot, quiz generation, and personalized learning
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
+
 
