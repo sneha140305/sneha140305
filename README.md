@@ -7,8 +7,14 @@
 </a>
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=0b0f19&labelColor=0b0f19" />
+<img src="https://img.shields.io/badge/🇯🇵%20Global%20AI%20%26%20Tech%20Intern%20@%20Frontier%20Japan%20Ltd-7dd3fc?style=for-the-badge&labelColor=0b0f19" />
 
 </div>
+
+<br/>
+
+> ### 🇯🇵 Global AI & Technology Intern @ **Frontier Japan Ltd.** — Oct–Dec 2025
+> Selected for an international internship program, working on AI & technology-driven projects with a global team based in Japan.
 
 <br/>
 
@@ -19,7 +25,7 @@
 | 🎯 **Title** | Software Developer \| AI/ML & Full Stack |
 | 📍 **Location** | Indore, Madhya Pradesh, India |
 | 🎓 **Education** | B.Tech, AI & ML @ Acropolis Institute of Technology & Research (2023–2027) |
-| 💼 **Currently** | Global AI & Technology Intern @ Frontier Japan Ltd (Oct–Dec 2025) |
+| 💼 **Currently** | 🇯🇵 Global AI & Technology Intern @ **Frontier Japan Ltd** (Oct–Dec 2025) |
 | 🚀 **Open To** | Full-time Roles · Internships · All Domains · Collaborations |
 
 **🛠️ Skills**
