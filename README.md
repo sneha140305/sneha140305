@@ -8,9 +8,6 @@
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=0b0f19&labelColor=0b0f19" />
 
-<img src="https://komarev.com/ghpvc/?username=sneha140305&label=Profile%20Views&color=7dd3fc&style=flat" />
-<img src="https://img.shields.io/github/followers/sneha140305?label=Followers&style=flat&color=7dd3fc" />
-
 </div>
 
 <br/>
@@ -130,7 +127,7 @@ REST APIs powering an in-app chatbot, quiz generation, and personalized learning
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sneha140305&theme=nord&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=sneha140305&theme=nord&no-frame=true&row=1&column=6" />
 </div>
 
 ### 📈 Contribution Activity
@@ -158,3 +155,4 @@ REST APIs powering an in-app chatbot, quiz generation, and personalized learning
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
+
